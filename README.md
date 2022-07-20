@@ -1,6 +1,8 @@
 # Seattle_Airbnb_Udacity
 This repository is being created to analyze Seattle Airbnb Udacity.
 
+Published Blog Link - https://medium.com/@amanchawla9793/f876f4203451
+
 
 - Installations
 - Project Motivation
